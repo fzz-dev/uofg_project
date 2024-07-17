@@ -1,18 +1,15 @@
-echo ".idea/" >> .gitignore
-echo ".ipynb_checkpoints/" >> .gitignore
-echo "Untitled.ipynb" >> .gitignore
-echo "__pycache__/" >> .gitignore
-echo "best_model (1).pth" >> .gitignore
-echo "best_model (2).pth" >> .gitignore
-echo "captured_actions/" >> .gitignore
-echo "data/archive/20bn-jester-download-package-labels/" >> .gitignore
-echo "data/archive/Test.csv" >> .gitignore
-echo "data/archive/Test/" >> .gitignore
-echo "data/archive/Train/" >> .gitignore
-echo "data/archive/Validation/" >> .gitignore
-echo "data/processed_test/" >> .gitignore
-echo "data/processed_train.zip" >> .gitignore
-echo "data/processed_train/" >> .gitignore
-echo "data/processed_validation.zip" >> .gitignore
-echo "data/processed_validation/" >> .gitignore
-echo "motion_recognition.ipynb" >> .gitignore
+.idea/
+.ipynb_checkpoints/
+Untitled.ipynb
+__pycache__/
+best_model (1).pth
+best_model (2).pth
+captured_actions/
+data/archive/20bn-jester-download-package-labels/
+data/archive/Test.csv
+data/archive/Test/
+data/archive/Train/
+data/archive/Validation/
+data/processed_test.zip
+data/processed_train.zip
+data/processed_validation.zip
