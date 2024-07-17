@@ -13,3 +13,8 @@ data/archive/Validation/
 data/processed_test.zip
 data/processed_train.zip
 data/processed_validation.zip
+data/processed_test/
+data/processed_train/
+data/processed_validation/
+motion_recognition.ipynb
+
